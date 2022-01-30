@@ -2,9 +2,9 @@
 
 --- PROJECT INFORMATION ---
 
-Nombre del proyecto : pedro-molina
-Número del proyecto : 15085041231
-ID de proyecto : pedro-molina
+- Nombre del proyecto : pedro-molina
+- Número del proyecto : 15085041231
+- ID de proyecto : pedro-molina
 
 --- END PROJECT INFORMATION ---
 
