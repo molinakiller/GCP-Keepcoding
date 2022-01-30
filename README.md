@@ -36,6 +36,6 @@ Con Google App Engine nos permite versionar, escalar y ejecutar nuestro código 
 En el caso de la práctica utilizamos código para implementar una conexión a la base de datos que hemos creado en la segunda parte.
 Generamos dos versiones y además dividimos el tráfico.
 
-Primera versión: https://version-1-0-0-dot-practica-dot-pedro-molina.ey.r.appspot.com/
-Segunda versión: https://version-2-0-0-dot-practica-dot-pedro-molina.ey.r.appspot.com/
+- Primera versión: https://version-1-0-0-dot-practica-dot-pedro-molina.ey.r.appspot.com/
+- Segunda versión: https://version-2-0-0-dot-practica-dot-pedro-molina.ey.r.appspot.com/
 
